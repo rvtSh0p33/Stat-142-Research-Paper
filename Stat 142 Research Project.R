@@ -1,3 +1,4 @@
+
 pop <- function(N, contam){
   
   # Intializing values of covariates
